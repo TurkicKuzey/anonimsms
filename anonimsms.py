@@ -20,10 +20,10 @@ os.system("apt-get install figlet")
 
 os.system("clear")
 
-os.system("figlet TURK - SMS GONDERME ARACI")
+os.system("figlet SMS GONDERME ARACI")
 
 banner = """
-      > Coder BY discord.gg/turkism / Türkic Kuzey <
+    > Coder BY discord.gg/turkism / Türkic Kuzey <
 >İstediğiniz Telefon Numarasına Bir Günde Bir Mesaj Atma Hakkınız Vardır!
 >Mesajınızdaki Karakter Sayısı 70'i Geçmemelidir.
 >Telefon Numarasını Doğru Girmezseniz Hata Vericektir.
@@ -35,7 +35,7 @@ banner = """
 
 print(banner)
 
-sor = input("Telefon Numarası Örn: 905555555555 >>> ")
+sor = input("Telefon Numarası Örnek: 905555555555 >>> ")
 
 mesaj = input("Mesajınız >>> ")
 
