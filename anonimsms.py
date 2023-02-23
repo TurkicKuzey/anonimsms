@@ -20,17 +20,17 @@ os.system("apt-get install figlet")
 
 os.system("clear")
 
-os.system("figlet TÜRKİST - SMS GONDERME ARACI")
+os.system("figlet TURKIST - SMS GONDERME ARACI")
 
 banner = """
-         	     > Coder BY discord.gg/turkism / Türkic Kuzey <
-|> İstediğiniz Telefon Numarasına Bir Günde Bir Mesaj Atma Hakkınız Vardır!
-|> Mesajınızdaki Karakter Sayısı 70'i Geçmemelidir.
-|> Telefon Numarasını Doğru Girmezseniz Hata Vericektir.
-|> Çalıştığını Onaylamak İçin Kendinizde Deneyebilirsiniz.
-|> Doğru Girdiğiniz Halde Hata Veriyorsa 2. Defa Tekrar Deneyin Hata Verse Bile Çalışacaktır.
-|> Discord: discord.gg/turkism
-|> Discorddaki Sunucumuza Katılmayı Unutmayın!
+          > Coder BY discord.gg/turkism / Türkic Kuzey <
+>İstediğiniz Telefon Numarasına Bir Günde Bir Mesaj Atma Hakkınız Vardır!
+>Mesajınızdaki Karakter Sayısı 70'i Geçmemelidir.
+>Telefon Numarasını Doğru Girmezseniz Hata Vericektir.
+>Çalıştığını Onaylamak İçin Kendinizde Deneyebilirsiniz.
+>Doğru Girdiğiniz Halde Hata Veriyorsa 2. Defa Tekrar Deneyin Hata Verse Bile Çalışacaktır.
+>Discord: https://discord.gg/turkism
+>Discorddaki Sunucumuza Katılmayı Unutmayın!
 """
 
 print(banner)
